@@ -12,3 +12,5 @@
 ### Class
 
 It's a blueprint of an object, its says how an object should look like. Each object made from the class can have its own value for instance variables
+
+![img](assets/objislike.png)
